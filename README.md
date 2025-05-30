@@ -1,5 +1,9 @@
 ## 🍕 Pizza Sales Data Pipeline (Medallion Architecture)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/8m7nAJTYvzNUh54HQm/giphy.gif?cid=ecf05e47z16mopvp37g5sohq1mgrflbe0ujkg7emrj97k1an&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+</p>
+
 ### 🛠️ Project Overview
 Designed and implemented a **Pizza Sales Data Pipeline** using the **Medallion Architecture**:
 - **🏁 Landing Zone**: Initial raw data intake
