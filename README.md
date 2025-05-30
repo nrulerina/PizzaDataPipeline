@@ -11,6 +11,10 @@ Designed and implemented a **Pizza Sales Data Pipeline** using the **Medallion A
 - **🥈 Silver Layer**: Cleaned and transformed data using SQL queries
 - **📦 Output**: Extracted cleaned data into **Parquet** files for downstream analytics
 
+### 📊 Dataset
+- Source: [Kaggle - Pizza Sales Dataset](https://www.kaggle.com/datasets/kshitijbhatia/pizza-sales)
+- Contains order-level sales information including pizza type, quantity, price, and dates
+
 ### 🧰 Tools & Technologies
 - 🗄️ Microsoft SQL Server  
 - 🐍 Python  
