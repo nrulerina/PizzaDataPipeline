@@ -12,8 +12,7 @@ Designed and implemented a **Pizza Sales Data Pipeline** using the **Medallion A
 - **📦 Output**: Extracted cleaned data into **Parquet** files for downstream analytics
 
 ### 📊 Dataset
-- Source: [Kaggle - Pizza Sales Dataset](https://www.kaggle.com/datasets/kshitijbhatia/pizza-sales)
-- Contains order-level sales information including pizza type, quantity, price, and dates
+- Source: [Kaggle - Pizza Sales Dataset](https://www.kaggle.com/code/mdismielhossenabir/pizza-sales-dataset)
 
 ### 🧰 Tools & Technologies
 - 🗄️ Microsoft SQL Server  
